@@ -5,9 +5,14 @@ Required Libraries
 
 Library	                    Install Command
 os (built-in)	              (No installation needed)
+
 validators	                pip install validators
+
 streamlit	                  pip install streamlit
+
 langchain_groq	            pip install langchain_groq
+
 langchain	                  pip install langchain
+
 langchain_community	        pip install langchain_community
 
