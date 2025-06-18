@@ -3,16 +3,17 @@ On submitting youtube video or any Document URL from WEB this application will s
 
 Required Libraries
 
-Library	                    Install Command
-os (built-in)	              (No installation needed)
+Library	and their Install Command
 
-validators	                pip install validators
+os (built-in)	  --->            (No installation needed)
 
-streamlit	                  pip install streamlit
+validators	  --->              pip install validators
 
-langchain_groq	            pip install langchain_groq
+streamlit	  --->            pip install streamlit
 
-langchain	                  pip install langchain
+langchain_groq	  --->      pip install langchain_groq
 
-langchain_community	        pip install langchain_community
+langchain	  --->                pip install langchain
+
+langchain_community	--->        pip install langchain_community
 
